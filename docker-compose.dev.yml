@@ -1,0 +1,14 @@
+# Production configuration
+
+version: '3.4'
+
+services:
+  daily-breakdown-bot-app:
+    build:
+      context: .
+      dockerfile: Dockerfile.dev
+    working_dir: /home/app
+    restart: "no"
+    volumes:
+      - .:/home/app
+    command: ["npm", "start"]

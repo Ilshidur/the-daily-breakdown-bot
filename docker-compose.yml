@@ -1,0 +1,19 @@
+# Production configuration
+
+version: '3.4'
+
+services:
+  daily-breakdown-bot-app:
+    image: ilshidur/the-daily-breakdown-bot
+    container_name: daily-breakdown-bot-app
+    environment:
+      - TWITTER_CONSUMER_KEY=${TWITTER_CONSUMER_KEY}
+      - TWITTER_CONSUMER_SECRET=${TWITTER_CONSUMER_SECRET}
+      - TWITTER_ACCESS_TOKEN=${TWITTER_ACCESS_TOKEN}
+      - TWITTER_ACCESS_TOKEN_SECRET=${TWITTER_ACCESS_TOKEN_SECRET}
+    volumes:
+      - published:/home/app/db/published_breakdowns.json
+    restart: always
+
+volumes:
+  published:

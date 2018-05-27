@@ -1,0 +1,9 @@
+db/published_breakdowns.json
+node_modules/
+videos/*
+.editorconfig
+.env
+.env.dist
+.gitignore
+docker-compose*
+Dockerfile*

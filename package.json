@@ -1,0 +1,28 @@
+{
+  "name": "daily-breakdown-bot",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A Twitter bot that posts a neat deathcore breakdown every day.",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ilshidur/the-daily-breakdown-bot.git"
+  },
+  "author": "Ilshidur <ilshidur@gmail.com> (https://www.nicolas-coutin.fr)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ilshidur/the-daily-breakdown-bot/issues"
+  },
+  "homepage": "https://github.com/Ilshidur/the-daily-breakdown-bot",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "fb": "^2.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-cron": "^1.2.1",
+    "twit": "^2.2.9",
+    "ytdl-core": "^0.20.4"
+  }
+}
