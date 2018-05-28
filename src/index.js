@@ -118,7 +118,7 @@ async function postBreakdown(fileName, breakdown, breakdownNumber) {
   const tweet = (uploadedMediaId) => new Promise((resolve, reject) => {
     console.log('Posting the most cringy tweet ...');
     const tweet = {
-      status: `\u3010Daily breakdown\u3011 \u3018n° ${breakdownNumber}\u3019\n\n${breakdown.title} by ${breakdown.artist}\n\n${breakdown.comment}`,
+      status: `\u3010Daily breakdown\u3011 \u3018n° ${breakdownNumber}\u3019\n\n${breakdown.title} by ${breakdown.artist}\n${breakdown.link}&t=${breakdown.start}s\n\n${breakdown.comment}`,
       media_ids: [uploadedMediaId]
     };
 
