@@ -12,7 +12,7 @@
     "link": "https://www.youtube.com/watch?v=Mb5OMOqJRWc",
     "start": 240,
     "end": 270,
-    "comment": "",
+    "comment": "Pure heaviness",
     "artist": "Black Tongue",
     "title": "Coma",
     "number": 1
@@ -102,7 +102,7 @@
     "link": "https://www.youtube.com/watch?v=312Sb-2PovA",
     "start": 16,
     "end": 40,
-    "comment": "",
+    "comment": "Classic one",
     "artist": "Suicide Silence",
     "title": "You Only Live Once",
     "number": 11
@@ -139,8 +139,8 @@
     "start": 51,
     "end": 79,
     "comment": "",
-    "artist": "Bring Me The Horizon",
-    "title": "Chelsea Smile",
+    "artist": "Thy Art Is Murder",
+    "title": "Reign Of Darkness",
     "number": 15
   },
   {
@@ -156,7 +156,7 @@
     "link": "https://www.youtube.com/watch?v=2BEvh6HSQc0",
     "start": 40,
     "end": 63,
-    "comment": "",
+    "comment": "Yup, still a breakdown",
     "artist": "Okilly Dokilly",
     "title": "White Wine Spritzer",
     "number": 17
@@ -165,7 +165,7 @@
     "link": "https://www.youtube.com/watch?v=AvSTYZ0P-rY",
     "start": 18,
     "end": 40,
-    "comment": "",
+    "comment": "Fuck. The bass drop that rips your face off.",
     "artist": "Extermination Dismemberment",
     "title": "Survival",
     "number": 18
@@ -252,7 +252,7 @@
     "number": 27
   },
   {
-    "link": "https://www.youtube.com/watch?v=eVI6c0TlM2g",
+    "link": "https://www.youtube.com/watch?v=NAjHBcnXFwU",
     "start": 21,
     "end": 41,
     "comment": "",
@@ -279,12 +279,12 @@
     "number": 30
   },
   {
-    "link": "https://www.youtube.com/watch?v=pMGJ-bLrqEk",
-    "start": 87,
-    "end": 117,
+    "link": "https://www.youtube.com/watch?v=KMRIIaNGY9U",
+    "start": 100,
+    "end": 127,
     "comment": "",
-    "artist": "Chelsea Grin",
-    "title": "Clockwork",
+    "artist": "Thy Art Is Murder",
+    "title": "Coffin Dragger",
     "number": 31
   },
   {
@@ -502,5 +502,59 @@
     "artist": "Fit For An Autopsy",
     "title": "Heads Will Hang",
     "number": 55
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=Hth_i5-K7Qc",
+    "start": 90,
+    "end": 120,
+    "comment": "Makes your dick harder than ever",
+    "artist": "BROJOB",
+    "title": "WE ARE THE BOYFRIEND STEALERS",
+    "number": 56
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=4z9rHmqc05U",
+    "start": 220,
+    "end": 247,
+    "comment": "",
+    "artist": "Shadow Of Intent ft. Jason Evans & Dickie Allen",
+    "title": "The Catacombs",
+    "number": 57
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=US73awm9Ht4",
+    "start": 197,
+    "end": 223,
+    "comment": "",
+    "artist": "Shadow Of Intent",
+    "title": "The Heretic Prevails",
+    "number": 58
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=DhZfRGRPNQg",
+    "start": 219,
+    "end": 247,
+    "comment": "",
+    "artist": "Aversions Crown",
+    "title": "Ophiophagy",
+    "number": 59
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=NxLYJJnlGs8",
+    "start": 86,
+    "end": 116,
+    "comment": "",
+    "artist": "Fit For An Autopsy",
+    "title": "Black Mammoth",
+    "number": 60
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=W_bKpbiMz3A",
+    "start": 138,
+    "end": 157,
+    "comment": "",
+    "artist": "Chelsea Grin",
+    "title": "Playing with Fire",
+    "number": 61
   }
 ]
