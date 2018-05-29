@@ -12,6 +12,7 @@ const T = new Twit(config.twitter);
 
 // The breakdowns must NOT last more than 30 seconds
 // Otherwise, Twitter won't allow it.
+// We'll prefer comment which the length is equal or less to 130.
 const MAX_BREAKDOWN_DURATION = 30;
 const AUTHOR = '@Ilshidur';
 
