@@ -30,7 +30,10 @@ Yeah ... **TODO** !
 
 ## Development
 
-`docker-compose -f ./docker-compose.yml -f ./docker-compose.dev.yml up`
+```bash
+npm ci
+docker-compose -f ./docker-compose.yml -f ./docker-compose.dev.yml up
+```
 
 ## License
 
