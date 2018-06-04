@@ -18,11 +18,11 @@
   },
   "homepage": "https://github.com/Ilshidur/the-daily-breakdown-bot",
   "dependencies": {
-    "dotenv": "^5.0.1",
+    "dotenv": "^6.0.0",
     "fb": "^2.0.0",
     "fluent-ffmpeg": "^2.1.2",
     "node-cron": "^1.2.1",
-    "twit": "^2.2.9",
+    "twit": "^2.2.10",
     "ytdl-core": "^0.20.4"
   }
 }
