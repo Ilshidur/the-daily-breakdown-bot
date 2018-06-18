@@ -252,7 +252,7 @@
     "number": 27
   },
   {
-    "link": "https://www.youtube.com/watch?v=NAjHBcnXFwU",
+    "link": "https://www.youtube.com/watch?v=YnQXEm4xPo8",
     "start": 162,
     "end": 186,
     "comment": "",
@@ -628,5 +628,86 @@
     "artist": "The Dialectic",
     "title": "Dying At The Altar",
     "number": 68
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=alR0NcANEBw",
+    "start": 185,
+    "end": 211,
+    "comment": "",
+    "artist": "Humanity's Last Breath",
+    "title": "Abyssal Mouth",
+    "number": 69
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=iEM9W14TsWQ",
+    "start": 145,
+    "end": 175,
+    "comment": "",
+    "artist": "Despised Icon",
+    "title": "Day Of Mourning",
+    "number": 70
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=uxUmB5yK25s",
+    "start": 228,
+    "end": 257,
+    "comment": "",
+    "artist": "Fit For A King",
+    "title": "Tower of Pain",
+    "number": 71
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=sOfBHz_bZXA",
+    "start": 257,
+    "end": 287,
+    "comment": "",
+    "artist": "Impending Doom",
+    "title": "War Music",
+    "number": 72
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=T6SMPaPEvf8",
+    "start": 38,
+    "end": 55,
+    "comment": "",
+    "artist": "Close To The Sky",
+    "title": "Haunting Memories",
+    "number": 73
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=tdMyHGlOxQo",
+    "start": 210,
+    "end": 240,
+    "comment": "",
+    "artist": "After The Burial",
+    "title": "Collapse",
+    "number": 74
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=06PcB-itchI",
+    "start": 62,
+    "end": 80,
+    "comment": "Also providing masturbation material",
+    "artist": "Within Destruction",
+    "title": "Plague Of Immortality",
+    "number": 75
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=L_WfHdzQnsg",
+    "start": 192,
+    "end": 222,
+    "comment": "",
+    "artist": "Gravemind",
+    "title": "Lifelike",
+    "number": 76
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=Px36eiSSfkw",
+    "start": 109,
+    "end": 129,
+    "comment": "",
+    "artist": "H I V E",
+    "title": "Defiled",
+    "number": 77
   }
 ]
