@@ -20,13 +20,27 @@ docker push <your_docker_ID>/the-daily-breakdown-bot
 
 ## Installation
 
+First, copy `.env.dist` to a new `.env` file and fill in the environment variables.
+
 ### Without docker-compose
 
-Yeah ... **TODO** !
+*`.env` file required*
+
+```bash
+docker pull ilshidur/the-daily-breakdown-bot
+docker run \
+  --env-file .env \
+  -v $(pwd)/db/published_breakdowns.json:/home/app/db/published_breakdowns.json \
+  --name the-daily-breakdown-bot \
+  -d \
+  ilshidur/the-daily-breakdown-bot
+```
 
 ### With docker-compose (that's not necessary)
 
-`docker-compose up -d`
+*`.env` file required*
+
+In the project directory : `docker-compose up -d`
 
 ## Development
 
