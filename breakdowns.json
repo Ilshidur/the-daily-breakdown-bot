@@ -709,5 +709,50 @@
     "artist": "H I V E",
     "title": "Defiled",
     "number": 77
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=T8PlK5iFEKs",
+    "start": 73,
+    "end": 103,
+    "comment": "",
+    "artist": "Dealey Plaza",
+    "title": "Bricks",
+    "number": 78
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=urVePdAVhlY",
+    "start": 16,
+    "end": 46,
+    "comment": "",
+    "artist": "Justice For The Damned",
+    "title": "It Will Always Be My Fault",
+    "number": 79
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=NG8Dd0kiR3Y",
+    "start": 236,
+    "end": 265,
+    "comment": "",
+    "artist": "Chelsea Grin",
+    "title": "My Damnation",
+    "number": 80
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=ZpCcOVjHty0",
+    "start": 66,
+    "end": 95,
+    "comment": "Guilty pleasure",
+    "artist": "Attila",
+    "title": "Proving Grounds",
+    "number": 81
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=awR-DQpibw8",
+    "start": 136,
+    "end": 160,
+    "comment": "",
+    "artist": "Attila",
+    "title": "Bulletproof",
+    "number": 82
   }
 ]
