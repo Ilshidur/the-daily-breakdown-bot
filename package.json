@@ -21,7 +21,7 @@
     "dotenv": "6.0.0",
     "fluent-ffmpeg": "2.1.2",
     "node-cron": "1.2.1",
-    "twit": "2.2.9",
+    "twit": "2.2.11",
     "ytdl-core": "0.21.1"
   }
 }
