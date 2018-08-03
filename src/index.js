@@ -31,12 +31,31 @@ function notifyMissingBreakdowns() {
   });
 }
 
+function notifySoonMissingBreakdowns(count) {
+  return new Promise((resolve, reject) => {
+    const tweet = {
+      status: `${AUTHOR} Hey dude. I only have ${count} remaining breakdowns. Can you give me some ?`,
+    };
+    T.post('statuses/update', tweet, (err, data, response) => {
+      if (err) {
+        return reject(err);
+      }
+      console.log(`Hey dude. I only have ${count} remaining breakdowns. Can you give me some ?`);
+      resolve();
+    });
+  });
+}
+
 async function getNewBreakdown() {
   const breakdowns = await getBreakdowns();
 
   if (breakdowns.length === 0) {
     await notifyMissingBreakdowns();
     return null;
+  }
+
+  if (breakdowns.length <= 5) {
+    await notifySoonMissingBreakdowns(breakdowns.length);
   }
 
   const number = (await getPublishedBreakdowns()).length + 1;
