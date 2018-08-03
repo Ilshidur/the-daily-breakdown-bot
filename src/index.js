@@ -7,6 +7,7 @@ const { promisify } = require('util');
 
 const config = require('./config');
 const { getPublishedBreakdowns, getBreakdowns, savePublishedBreakdown } = require('./db');
+const { init: initSpotify, addSongToPlaylist } = require('./spotify');
 
 const T = new Twit(config.twitter);
 
@@ -170,6 +171,12 @@ if (process.env.NODE_ENV === 'production') {
     goBreakdown();
   });
 } else {
-  goBreakdown()
-    .catch(err => console.error(err));
+  console.log('Manual breakdown');
+  (async () => {
+    await initSpotify();
+    await addSongToPlaylist();
+  })()
+    .catch(err => console.error(err));;
+  // goBreakdown()
+  //   .catch(err => console.error(err));
 }
