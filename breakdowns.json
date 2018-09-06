@@ -817,5 +817,32 @@
     "artist": "Any Given Day feat. Matthew K. Heafy of Trivium",
     "title": "Arise",
     "number": 89
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=pAegBijFtqU",
+    "start": 56,
+    "end": 80,
+    "comment": "Parody band but heavy sound",
+    "artist": "Thallahu Akbar",
+    "title": "Thallahu",
+    "number": 90
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=dyXoXUURa4w",
+    "start": 100,
+    "end": 123,
+    "comment": "",
+    "artist": "Before Breathing",
+    "title": "Breathe Again",
+    "number": 91
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=lN_36xqaMk8",
+    "start": 120,
+    "end": 150,
+    "comment": "",
+    "artist": "Hollow Prophet",
+    "title": "Infernal Cleansing",
+    "number": 92
   }
 ]
