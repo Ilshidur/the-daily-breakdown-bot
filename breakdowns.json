@@ -862,5 +862,50 @@
     "artist": "Lorna Shore",
     "title": "This Is Hell",
     "number": 94
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=dBd_jscCzsk",
+    "start": 27,
+    "end": 57,
+    "comment": "",
+    "artist": "Whitechapel",
+    "title": "End of Flesh",
+    "number": 95
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=4Axcoz_OzR0",
+    "start": 210,
+    "end": 240,
+    "comment": "",
+    "artist": "Walking Dead On Broadway",
+    "title": "Song Of Courage",
+    "number": 96
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=sRbk_z3v5CM",
+    "start": 200,
+    "end": 230,
+    "comment": "",
+    "artist": "Within Destruction",
+    "title": "Rebirth of an Inverted World",
+    "number": 97
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=iWGMflZKbUA",
+    "start": 35,
+    "end": 64,
+    "comment": "",
+    "artist": "Anzu",
+    "title": "The Try Not To Die Challenge",
+    "number": 98
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=6E_ciZEtwdQ",
+    "start": 160,
+    "end": 189,
+    "comment": "",
+    "artist": "She Must Burn",
+    "title": "The Misery",
+    "number": 99
   }
 ]
