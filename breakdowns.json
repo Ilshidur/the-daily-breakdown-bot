@@ -907,5 +907,23 @@
     "artist": "She Must Burn",
     "title": "The Misery",
     "number": 99
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=aJBHF61wyQoc",
+    "start": 110,
+    "end": 140,
+    "comment": "",
+    "artist": "Brand Of Sacrifice",
+    "title": "Eclipse",
+    "number": 100
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=QWcI6mq_-C8",
+    "start": 122,
+    "end": 147,
+    "comment": "",
+    "artist": "Spite",
+    "title": "Despise",
+    "number": 101
   }
 ]
