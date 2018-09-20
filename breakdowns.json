@@ -925,5 +925,32 @@
     "artist": "Spite",
     "title": "Despise",
     "number": 101
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=qrWPKu37H1E",
+    "start": 147,
+    "end": 176,
+    "comment": "",
+    "artist": "Eskimo Callboy",
+    "title": "Crystals",
+    "number": 102
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=sT1W5nmiDuA",
+    "start": 172,
+    "end": 199,
+    "comment": "",
+    "artist": "Fit For A King",
+    "title": "Shattered Glass",
+    "number": 103
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=W_sB2pUZlcI",
+    "start": 148,
+    "end": 178,
+    "comment": "",
+    "artist": "All That Remains",
+    "title": "Fuck Love",
+    "number": 104
   }
 ]
