@@ -952,5 +952,23 @@
     "artist": "All That Remains",
     "title": "Fuck Love",
     "number": 104
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=iy1GQNXElAY",
+    "start": 144,
+    "end": 173,
+    "comment": "",
+    "artist": "The Order of Elijah",
+    "title": "New Line of Defense",
+    "number": 105
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=livyTzlPqc0",
+    "start": 151,
+    "end": 180,
+    "comment": "",
+    "artist": "The Browning",
+    "title": "Final Breath",
+    "number": 106
   }
 ]
