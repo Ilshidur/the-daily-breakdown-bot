@@ -970,5 +970,23 @@
     "artist": "The Browning",
     "title": "Final Breath",
     "number": 106
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=kB37XnH3-AI",
+    "start": 300,
+    "end": 330,
+    "comment": "",
+    "artist": "Curbstomp the Predator",
+    "title": "The Hatred",
+    "number": 107
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=yMcUHBYFEJY",
+    "start": 175,
+    "end": 204,
+    "comment": "",
+    "artist": "Abyss Walker",
+    "title": "Savage",
+    "number": 108
   }
 ]
