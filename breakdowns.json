@@ -988,5 +988,32 @@
     "artist": "Abyss Walker",
     "title": "Savage",
     "number": 108
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=eKQmn87Sa9I",
+    "start": 124,
+    "end": 204,
+    "comment": "",
+    "artist": "Within Destruction",
+    "title": "Self-Hatred",
+    "number": 109
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=77abKq9mF0I",
+    "start": 53,
+    "end": 76,
+    "comment": "",
+    "artist": "Barrier",
+    "title": "The Despot",
+    "number": 110
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=LCYqoQAltWU",
+    "start": 164,
+    "end": 187,
+    "comment": "",
+    "artist": "Sworn In",
+    "title": "Deadpan",
+    "number": 111
   }
 ]
