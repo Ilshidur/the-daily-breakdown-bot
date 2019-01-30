@@ -1,4 +1,4 @@
-# The Daily Breakdown bot
+# 🎸 The Daily Breakdown bot
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/The_Daily_Break.svg?style=social&label=Follow)](https://twitter.com/The_Daily_Break)
 
